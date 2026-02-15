@@ -140,7 +140,7 @@ Future improvement: signed direct upload to Cloudinary.
 
 ---
 
-## 📦 Environment Variables
+## Environment Variables
 
 ### Backend
 
