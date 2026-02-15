@@ -6,6 +6,11 @@ Orange's Folks is a production-deployed real-time messaging platform supporting 
 
 Built to explore real-time system design, secure authentication flows, and scalable full-stack architecture beyond traditional REST-based CRUD applications.
 
+Frontend develop repo: https://github.com/Fupaopaopaopao/chatapp-frontend
+
+App website: https://fullstack-orangechat.onrender.com/login
+(It will take a couples of mins to load the server)
+
 ---
 
 ## Features
